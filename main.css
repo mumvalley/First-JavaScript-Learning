@@ -1,0 +1,5 @@
+#mainCanvas {
+  width: 480px; /*幅*/
+  height: 480px; /*高さ*/
+  border: solid 1px black; /* 実践 1ピクセルの幅 黒 */
+}
