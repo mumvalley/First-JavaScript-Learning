@@ -1,1 +1,1 @@
-初めてのJavaScriptで、Hello Worldの表示
+初めてのJavaScriptで学習
